@@ -1,0 +1,49 @@
+.x{
+	background:linear-gradient(
+    rgba(35,43,85,0.75),
+    rgba(35,43,85,0.95));
+	position: relative;
+	margin-top:5%;
+	margin-bottom:15%;
+	margin-left:36%;
+	margin-right:36%;
+	border-radius:10px;
+	color:white;
+	border-color:rgba(255, 255, 255, 0.6); 
+}
+.p1{
+	padding-top:10%;
+	padding-bottom:20%;
+	padding-left:12%;
+	padding-right:20%;
+	color:white;
+}
+.p2{
+	padding-top:10%;
+	padding-bottom:15%;
+	border-top:1px solid grey;
+	color:grey;
+	text-align:center;
+}
+p{
+ margin-top:-5%;
+}
+h4{
+	margin-left:4%;
+}
+input{
+	position:inherit;
+	margin-top:-2%;
+	border-color:rgba(255,255,255,.2);;
+	border-radius: 20px;
+	background:rgba(255,255,255,.2);
+	width:320px;
+	height:30px;
+}
+input[type="submit"]
+{
+	color:blue;
+	margin-top:3%;
+	background :rgba(255, 255, 255, 0.6);
+	height:35px;
+}
